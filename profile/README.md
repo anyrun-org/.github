@@ -31,5 +31,4 @@ Refer to the [main Anyrun repository](https://github.com/anyrun-org/anyrun) for 
 
 ## Contributing
 
-TODO!
-
+Please refer to the Contributing Guidelines [here](https://github.com/anyrun-org/.github/blob/main/profile/CONTRIBUTING.md)
