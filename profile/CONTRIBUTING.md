@@ -8,9 +8,6 @@ This document provides general Contributing Guidelines.
 Check out the specific submodules Contributing Guidelines for further information.
 
 * [anyrun](https://github.com/anyrun-org/anyrun/blob/main/README.md): Main project repository that contains all the information required for using Anyrun.
-* [interface](https://github.com/anyrun-org/interface/blob/main/README.md): The raw interface crate for Anyrun and the plugins.
-* [macros](https://github.com/anyrun-org/macros/blob/main/README.md): Macro crate used by both plugins and Anyrun.
-* [plugin](https://github.com/anyrun-org/plugin/blob/main/README.md): A crate to make building plugins easier.
 
 ## Conventions
 
